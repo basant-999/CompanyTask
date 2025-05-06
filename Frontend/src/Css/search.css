@@ -1,0 +1,28 @@
+#SearchMainDiv{
+    
+}
+#searchSecondDiv{
+    width: 400px;
+    height: fit-content;
+    background-color: #2C2C3A;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+#searchSecondDiv div{
+    margin-bottom: 20px;
+}
+#searchInput{
+    width: 121px;
+    height: 10px;
+}
+
+#SearchShowMainDiv{
+    width: 400px;
+    height: 100px;
+    overflow-y: scroll;
+    background-color: #2C2C3A;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
