@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import item from '../data'
+import item from './Data.jsx'
 import "../Css/addproduct.css"
 const AddProduct = () => {
     const [input,setinput] = useState({})

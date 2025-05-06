@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import item from '../data'
+import item from './Data.jsx'
 import "../Css/Display.css"
 import { ImCross } from "react-icons/im";
 const Display = () => {
